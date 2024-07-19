@@ -1,4 +1,4 @@
 # My-demo
 This is my first Git Repository.
 <br>
-Author - Hazra Shaikh
+Author - Hazra Rahim Shaikh
